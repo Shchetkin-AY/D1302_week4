@@ -1,4 +1,4 @@
-[flake8]
+python manage.py createsuperuser[flake8]
 max_line_length = 120
 exclude = .git,__pycache__,venv,vacancies/data.py
 max-cognitive-complexity = 5
