@@ -1,1 +1,1 @@
-web: gunicorn Jumanji.wsgi
+web: gunicorn Jumanji/wsgi.
