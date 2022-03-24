@@ -27,7 +27,6 @@ ALLOWED_HOSTS = ['*']
 STATIC_ROOT = 'static'
 
 # Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
